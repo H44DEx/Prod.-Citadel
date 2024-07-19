@@ -1,0 +1,40 @@
+body {
+	background-color: #000 ;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: white;
+	display: grid;
+
+}
+
+hr {
+ 		width: 99%;
+
+}
+
+p {
+    text-align: center;
+}
+
+p a {
+    text-decoration: none;
+    color: white; 
+    margin: 0 10px;
+}
+
+h1 {
+	font-family: "Courier New", monospace;
+	font-weight: normal;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+
+.cabecalho {
+
+	width:100%; 
+	height: auto;
+
+}
+
